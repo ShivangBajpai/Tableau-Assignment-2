@@ -1,0 +1,14 @@
+1. To connect to multiple tables in a single data source at one time, what must be specified? 
+
+ANSWER=> A join
+
+
+2. Tableau can create worksheet-specific filters.
+
+ANSWER=>True
+ 
+
+3. What does the box in a box plot represent?
+
+ANSWER=> The range of middle half of data points
+
